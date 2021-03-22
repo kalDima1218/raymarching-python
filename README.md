@@ -1,5 +1,6 @@
 # Raymarching
-Raymarching is a technology for rendering scenes. It is interesting because the characteristics and positions of objects are described by formulas, which means you can render scenes in any resolution
+Raymarching is a technology for rendering scenes. It is interesting because the characteristics and positions of objects are described by formulas, which means you can render scenes in any resolution.
+**If you want faster code, go there: https://github.com/kalDima1218/raymarching**
 
 ## Features!
 
