@@ -27,8 +27,6 @@ python3 raymarching.py
 ```
 
 ## License
-----
-
 LGPL-v2.1
 
     Raymarching lib. Vector engine library for rendering scenes in high resolution.
